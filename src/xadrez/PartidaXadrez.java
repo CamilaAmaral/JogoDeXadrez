@@ -21,5 +21,4 @@ public class PartidaXadrez {
 		}
 		return matriz;
 	}
-
 }
